@@ -8,7 +8,7 @@ const nextConfig = {
       });
       return config;
   },
-  output: 'export', // For static site generation
+ 
 };
 
 export default nextConfig;
